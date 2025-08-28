@@ -104,9 +104,11 @@ dependencies:
   - pytorch=2.7.1=cpu_generic_py311_hca5bd5b_4
   - stable-baselines3=2.7.0=pyhd8ed1ab_0
   - seaborn
-  - xgboost
+  - xgboost=3.0.1
   - lightgbm
   - polars
   - datasets
   - ipykernel
+  - imbalanced-learn
+  - scikit-learn
 prefix: /Users/samuelproulx/miniconda3/envs/envml
